@@ -1,0 +1,22 @@
+{
+    "noticias": [
+        {
+            "id": "1",
+            "titulo": "PVU - Plants Vs Undeads",
+            "endereco": "https://plantvsundead.com/",
+            "sobre": "PlantVsUndead (PVU) é um jogo de NFT gratuito jogue para ganhar que foi lançado em junho de 2021. O PVU baseia a jogabilidade no popular jogo de celular, Plants vs Zombies (PvZ), popular entre milhões de usuários em todo o mundo. É um jogo multiplayer de defesa da torre em que plantas são o ativo principal dos jogadores, com as quais eles têm que lutar contra os mortos vivo e ganhar tokens PVU."
+        },
+        {
+            "id": "2",
+            "titulo": "Mir4",
+            "endereco": "https://www.mir4global.com/?lang=pt",
+            "sobre": "Mir4 é um MMORPG de fantasia oriental em mundo aberto integrado a tecnologia BlockChain, através de Token Não Fungível (NFT, na sigla inglesa) e Token Fungível (FT, na sigla inglesa), permitindo a compra, venda e negociações com lucro. Além disso, o game também permite um elevado nível de customização de personagens, possibilitando aos jogadores ajustar a aparência dos seus personagens, em conjunto com outros recursos “tradicionais” do gênero, como a possibilidade de progredir juntamente com um clã, modos de pilhagem, permitindo aos jogadores desfrutar de estratégias e competir para proteger tesouros deixado pelos chefes, e mais. "
+        },
+        {
+            "id": "3",
+            "titulo": "Axie Infinity",
+            "endereco": "https://axieinfinity.com/",
+            "sobre": "O jogo foi inspirado na dinâmica de Pokémon, em que os jogadores podem interagir com todo o ecossistema. Na jornada, os gamers podem treinar, criar e lutar contra os animais virtuais chamados Axies. O jogo é um card game baseado em turnos, com o objetivo durante a batalha eliminar 3 Axies da equipe adversária. Cada Axie possui características únicas que determinam a capacidade e função da batalha. Os jogadores devem escolher as cartas de forma estratégicas para melhorar as oportunidades contra o adversário. "
+        }
+    ]
+}

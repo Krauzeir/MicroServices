@@ -1,0 +1,22 @@
+{
+    "noticias": [
+        {
+            "id": "1",
+            "titulo": "PVU - Plants Vs Undead",
+            "moeda": "O jogo possui atualmente 2 moedas: PVU e FPVU(Em implementação)",
+            "valor": "É possível acompanhar em tempo real o valor do PVU aqui: https://coinmarketcap.com/pt-br/currencies/plantvsundead/"
+        },
+        {
+            "id": "2",
+            "titulo": "Mir4",
+            "moeda": "O jogo possui atualmente 1 moeda: Draco",
+            "valor": "É possível acompanhar em tempo real o valor do Draco aqui: https://www.mir4draco.com/"
+        },
+        {
+            "id": "3",
+            "titulo": "Axie Infinity",
+            "moeda": "O jogo possui atualmente 2 moedas: SLP e AXS",
+            "valor": "É possível acompanhar em tempo real o valor do SLP aqui: https://coinmarketcap.com/pt-br/currencies/smooth-love-potion/ e do AXS: https://coinmarketcap.com/pt-br/currencies/axie-infinity/"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+version : "3"
+
+services:
+  site:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/site:/servicos"
+    command: python3 servico.py
+    ports:
+      - "5001:5000"
+
+  coin:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/coin:/servicos"
+    command: python3 servico.py
+    ports:
+      - "5002:5000"
+
+  roadmap:
+    image: servnoticias
+    build: .
+    volumes:
+      - "./servicos/roadmap:/servicos"
+    command: python3 servico.py
+    ports:
+      - "5003:5000"
+
+
+  banco_volatil:
+    image: memcached
+    hostname: banco_volatil
+    ports: 
+      - "5005:11211"

@@ -1,0 +1,22 @@
+{
+    "noticias": [
+        {
+            "id": "1",
+            "data": "19/11/2021",
+            "titulo": "PVU - Plants Vs Undeads",
+            "ultimaatt": "Divulgado Roadmap para 3.0: https://plantvsundead.substack.com/p/road-to-pvu-30-gathering"
+        },
+        {
+            "id": "2",
+            "data": "19/11/2021",
+            "titulo": "Mir4",
+            "ultimaatt": "Novo Patch de Atualizações: https://forum.mir4global.com/post/407?lang=pt"
+        },
+        {
+            "id": "3",
+            "data": "19/11/2021",
+            "titulo": "Axie Infinity",
+            "ultimaatt": "Chegada da Temporada 18 e mudanças na economia de Axie Infinity: https://axieinfinity.com.br/a-chegada-da-temporada-18-e-mudancas-na-economia-de-axie-infinity/"
+        }
+    ]
+}
